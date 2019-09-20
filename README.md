@@ -10,6 +10,7 @@ LabyrinthCoreは そらまめゲームスが開発中のスマートフォン向
 
 詳細はこちらをご確認ください。
 
+[LabyrinthのUE4プロジェクト公開に関するお知らせ](https://soramame-games.com/about-labyrinth-ue4)
 
 ## ターゲットプラットフォーム
 
