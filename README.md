@@ -18,6 +18,14 @@ LabyrinthCoreは そらまめゲームスが開発中のスマートフォン向
 
 そのため、実装内容もスマートフォンでの動作を優先して制作しています。
 
+## 動かし方
+
+スマホ縦持ちを想定していますので、実行時のウィンドウサイズを縦長に指定することをお勧めします。
+
+[編集]＞[エディタの環境設定]＞[レベルエディタ]＞[プレイ]＞[Game Viewport Settings]＞[New Viewport Resolution]
+Viewport Width : 375
+Viewport Heigh : 667
+
 ## 動作環境
 
 UE4.23.0
