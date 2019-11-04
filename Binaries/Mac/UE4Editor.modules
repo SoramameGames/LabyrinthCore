@@ -2,6 +2,6 @@
 	"BuildId": "8386587",
 	"Modules": 
 	{
-		"LabyrinthCore": "UE4Editor-LabyrinthCore.dylib"
+		"Labyrinth": "UE4Editor-Labyrinth.dylib"
 	}
 }
