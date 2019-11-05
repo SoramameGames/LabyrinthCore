@@ -1,6 +1,7 @@
 # LabyrinthCore
 
-![LabyrinthCore画像](https://soramame-games.com/wp-content/uploads/2019/09/LabyrinthCore.png "LabyrinthCore画像")
+![LabyrinthCore画像](https://soramame-games.com/wp-content/uploads/2019/11/LabyrinthCore20191105.png)
+
 
 ## はじめに
 
